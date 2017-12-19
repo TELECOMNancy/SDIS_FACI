@@ -11,3 +11,6 @@
 /WebService/WebService-ejb/build/
 /WebService/WebService-ejb/dist/
 /WebService/dist/
+/Worker/nbproject/private/
+/Worker/build/
+/Worker/dist/
